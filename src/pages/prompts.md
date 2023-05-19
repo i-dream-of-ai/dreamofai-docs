@@ -106,4 +106,4 @@ Using placeholders in prompts offers numerous benefits:
 
 - **Consistency:** Using the same prompt ensures consistency in your communication, while placeholders let you adapt the message as needed.
 
-For example, a prompt like `Meet {{Name}}, who will be joining our team as a {{Role}} from {{Date}}.` can be easily adapted for different individuals joining the team, ensuring consistent introductions while still allowing for personalization.
+For example, a prompt like `Write an intro letter about our company to {{Name}}, who will be joining our team as a {{Role}} from {{Date}}. They will be providing us with {{Product or Service Provided}} etc. etc.` can be easily adapted, ensuring consistent introductions while still allowing for personalization.
