@@ -1,6 +1,6 @@
 ---
-title: Basics of time-travel
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: Image Generation
+description: Learn how to generate images with AI.
 ---
 
 Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.

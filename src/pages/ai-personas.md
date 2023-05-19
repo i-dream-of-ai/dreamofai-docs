@@ -1,6 +1,6 @@
 ---
-title: The butterfly effect
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: AI Personas
+description: Learn how to use our custom AI personas, and write your own.
 ---
 
 Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
