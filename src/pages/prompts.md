@@ -58,11 +58,11 @@ Using the prompt system offers numerous benefits:
 - **Productivity:** By reducing manual repetition, it lets you focus on more important tasks.
 
 
-# **Leveraging the Prompt System**
+## **Leveraging the Prompt System**
 
 Our platform's prompt system is a powerful tool to boost your productivity, efficiency, and creativity. Here, we delve deeper into crafting effective prompts, utilizing placeholders, and their advantages.
 
-## **Crafting Effective Prompts**
+### **Crafting Effective Prompts**
 
 An effective prompt can serve as a reliable base for generating high-quality AI responses. Here are some tips:
 
@@ -72,7 +72,7 @@ An effective prompt can serve as a reliable base for generating high-quality AI 
 
 - **Direct the AI:** If you want the AI to speak in a certain tone or style, instruct it. For instance, "Write a humorous blog post about AI technology."
 
-## **Expanding Use of Prompts**
+### **Expanding Use of Prompts**
 
 Prompts can be used for a wide range of applications:
 
@@ -84,7 +84,7 @@ Prompts can be used for a wide range of applications:
 
 - **Sales and Marketing:** Prepare persuasive pitches or promotional messages.
 
-## **Utilizing Placeholders**
+### **Utilizing Placeholders**
 
 Placeholders add a layer of customization to your prompts. Here's how you can maximize their use:
 
