@@ -22,7 +22,7 @@ export const navigation = [
   {
     title: 'Core concepts',
     links: [
-      { title: 'The Chat Dashboard', href: '/chat-dashboard' },
+      { title: 'Chat Dashboard', href: '/chat-dashboard' },
       {
         title: 'Using Prompts',
         href: '/prompts',
@@ -33,6 +33,7 @@ export const navigation = [
         href: '/ai-personas',
       },
       { title: 'Image Generation', href: '/image-generation' },
+      { title: 'Account', href: '/account' },
     ],
   },
   {

@@ -7,6 +7,7 @@ import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
+import Link from 'next/link'
 
 const codeLanguage = 'javascript'
 const code = `export default {
@@ -49,17 +50,16 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                Never miss the cache again.
+                Increase your productivity with an AI Assistant.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Cache every single thing your app could ever do ahead of time,
-                so your code never even has to run at all.
+                Utilize our AI Assistant tools built on top of leading AI models like OpenAI ChatGT-4, Stable Diffusion, and more.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
-                  View on GitHub
-                </Button>
+                {/* <Button href="/">Get started</Button> */}
+                <Link href="https://idreamofai.com/register" >
+                  Register
+                </Link>
               </div>
             </div>
           </div>
