@@ -3,69 +3,62 @@ title: The Chat Dashbaord
 description: Learn about the chat dashbaord.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+The Chat Dashboard is a feature-rich, user-friendly interface that allows you to effectively use and manage your chat conversations and prompts. It provides a range of functions, including creating and organizing conversations and prompts into folders, among other tasks.
 
 ---
 
-## Quis vel iste dicta
+## How to Use the Dashboard
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Get started with these basic steps:
 
-### Et pariatur ab quas
+1. **Select a conversation**: Navigate to the Chatbar on the left side and click on the conversation you want to view. The selected conversation's messages will be displayed in the Chat.
+2. **Start a new conversation**: Click on the "+ New Conversation" button at the bottom of the Chatbar to start a new conversation. A default new conversation will be created, and you can start chatting right away.
+3. **Organize your conversations and prompts**: Click on the "Create Folder" button to create a new folder. Give it a name and click "Create". You can then drag and drop conversations and prompts into the folder for better organization.
+4. **Use prompts**: Navigate to the Promptbar on the right side. Here you can view all your saved prompts. Click on a prompt to select it, and its details will be displayed in the chat view. To create a new prompt, click on the "+ New Prompt" button.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+## Dashboard Overview
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+The Dashboard is divided into three main parts: the **Chatbar**, the **Chat**, and the **Promptbar**.
 
-### Natus aspernatur iste
+## Chatbar
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+The Chatbar, located on the left side of the screen, serves as the control center for managing your conversations and prompts. It allows you to:
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- **Select a conversation**: Click on a conversation to select it. The chat view on the right will then display the messages of this conversation.
+- **Create a new conversation**: Click on the "+ New Conversation" button to start a new conversation.
+- **Organize conversations into folders**: You can create folders to manage your conversations effectively. You can name the folders as per your convenience and add conversations to these folders.
+- **Update or delete folders**: You can also update the name or delete a folder by clicking on the three-dot menu next to each folder's name.
 
----
+## The Chat Feed
 
-## Quos porro ut molestiae
+The chat feed, in the middle of the screen, is where the actual conversation takes place. It displays the messages of the selected conversation in a dynamic and interactive way. It also allows you to send new messages, which will then be processed by the AI model.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### Additional Features
+- `ModelSelect`: Allows the user to select an AI model.
+- `PersonaSelect`: Allows the user to select an AI persona.
+- `SystemPrompt`: Enables the user to select a prompt for the AI.
+- `TemperatureSlider`: Provides a slider for setting the AI's response temperature.
+- `Image Generator`: This select option allows the user to choose between 'Stable Diffusion' and 'DALL·E-2 (OpenAI)' as the AI's image generation model.
 
-### Voluptatem quas possimus
+- `Editable Messages`: Each message in the conversation can be clicked to be edited and resent. The edited message and all subsequent messages will be discarded and then regenerated based on the edited message.
+- `Current Conversation Parameters`: This sticky bar at the top of the conversation shows the currently selected model's name and temperature.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### How to Use the Chat
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+The user can select a conversation in the Chatbar, or starte a new one. If the conversation doesn't have any messages yet, they will be presented with options for selecting a model, persona, prompt, image generation type, and temperature. The user can send new messages using the `ChatInput` at the bottom. Each AI-generated message can be regenerated by clicking the `Regenerate` button in the `ChatInput`.
 
-### Id vitae minima
+## Promptbar
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+The Promptbar, located on the right side of the screen, lets you manage your prompts. It allows you to:
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- **Select a prompt**: Click on a prompt to select it. The selected prompt's details will be displayed in the chat view.
+- **Create a new prompt**: Click on the "+ New Prompt" button to create a new prompt.
+- **Organize prompts into folders**: You can create folders to manage your prompts effectively. You can name the folders as per your convenience and add prompts to these folders.
 
----
+## Tips for Effective Usage
 
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- If you have multiple conversations, use the search function in the Chatbar to quickly find the one you are looking for.
+- Create folders with meaningful names that reflect the topics or categories of your conversations or prompts. This will make it easier to locate a specific conversation or prompt in the future.
+- If you're not sure what to talk about, use the prompts for inspiration. You can also save your favorite prompts for later use.
+- Regularly update your conversations and prompts to keep them relevant and up-to-date. This will enhance your user experience and improve the AI model's responses.

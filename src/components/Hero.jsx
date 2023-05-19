@@ -3,7 +3,6 @@ import Image from 'next/image'
 import clsx from 'clsx'
 import Highlight, { defaultProps } from 'prism-react-renderer'
 
-import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
@@ -11,16 +10,17 @@ import Link from 'next/link'
 
 const codeLanguage = 'javascript'
 const code = `export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
+  strategy: 'ai-super-powered',
+  'dream-of-ai-engine': {
+    productivity: 'x1000',
+    content: 'improved',
+    quality: 'increased',
   },
 }`
 
 const tabs = [
-  { name: 'cache-advance.config.js', isActive: true },
-  { name: 'package.json', isActive: false },
+  { name: 'personas.js', isActive: true },
+  { name: 'folders.json', isActive: false },
 ]
 
 function TrafficLightsIcon(props) {

@@ -8,13 +8,13 @@ Learn how to get get started with I Dream of AI. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Register" icon="installation" href="/" description="Step-by-step guide to registering for an account." /%}
+{% quick-link title="Register" icon="installation" href="/register" description="Step-by-step guide to registering for an account." /%}
 
-{% quick-link title="Chat Dashboard guide" icon="presets" href="/" description="Learn the different parts of the dashboard." /%}
+{% quick-link title="Chat Dashboard guide" icon="presets" href="/chat-dashboard" description="Learn the different parts of the dashboard." /%}
 
-{% quick-link title="Personas" icon="plugins" href="/" description="Learn about our custom AI personas and how to use them." /%}
+{% quick-link title="Personas" icon="plugins" href="/ai-personas" description="Learn about our custom AI personas and how to use them." /%}
 
-{% quick-link title="Prompts" icon="theming" href="/" description="Learn how to use our custom prompt system." /%}
+{% quick-link title="Prompts" icon="theming" href="/prompts" description="Learn how to use our custom prompt system." /%}
 
 {% /quick-links %}
 

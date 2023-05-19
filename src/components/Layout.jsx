@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
 import { Hero } from '@/components/Hero'
-import { Logo, Logomark } from '@/components/Logo'
+import { DarkLogo, Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
@@ -105,8 +105,9 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex flex-grow basis-0 items-center">
         <Link href="/" aria-label="Home page">
-          <Logomark className="h-9 w-9 lg:hidden" />
-          <Logo className="hidden h-9 w-auto fill-slate-700 dark:fill-sky-100 lg:block" />
+          {/* <Logomark className="h-9 w-9 lg:hidden" /> */}
+          <DarkLogo className="hidden h-12 w-auto fill-slate-700 dark:fill-sky-100 dark:lg:block" />
+          <Logo className="hidden h-12 w-auto fill-slate-700 dark:fill-sky-100 dark:lg:hidden lg:block" />
         </Link>
       </div>
       <div className="-my-5 mr-6 sm:mr-8 md:mr-0">
@@ -114,9 +115,9 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
-        <Link href="https://github.com" className="group" aria-label="GitHub">
+        {/* <Link href="https://github.com" className="group" aria-label="GitHub">
           <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
-        </Link>
+        </Link> */}
       </div>
     </header>
   )
