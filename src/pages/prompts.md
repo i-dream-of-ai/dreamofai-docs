@@ -3,69 +3,56 @@ title: Prompt System
 description: Learn how to use our prompt system.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Our platform features an advanced prompt system designed to enhance your productivity and efficiency. Prompts are pre-defined messages that can be saved, organized, and used anytime to quickly generate AI responses. You can also utilize placeholders in your prompts, allowing for seamless customization and reusability.
 
 ---
 
-## Quis vel iste dicta
+## **Creating and Saving Prompts**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+To create a reusable prompt:
 
-### Et pariatur ab quas
+1. In the prompt bar on the right of the chat dashboard, click + New Prompt. This will generate a new prompt button with a name like Prompt 1.
+2. Click on the prompt button to show the prompt form.
+3. Enter a name and description for you prompt, and the prompt content into the Prompt text field. You can use place holders to make it easy to reuse your prompt. Use {{}} to denote a variable. Ex: `{{name}} is a {{adjective}} {{noun}}`, or `Write a facebook post about {{subject}}, and use a {{tone}} tone.`. Later when you use your prompt, you will be able to easily and quickly replace the placeholder varaible with text.
+3. Choose if  you wan to share your prompt in the public prompt vault. This is encouraged, so it is ckecked by default.
+4. Click save to save your prompt.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **Using Placeholders in Prompts**
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+Placeholders can be added in your prompts by wrapping the placeholder text in double curly braces `{{}}`. For instance, if you're creating a product description prompt, it can be structured as: `Introducing our latest product, the {{Product Name}}. Please write a professional product description using the information given. {{Product Info}}`.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+When a prompt with placeholders is selected:
 
-### Natus aspernatur iste
+1. A modal will appear with the placeholder text and a text input field beneath each placeholder.
+2. You can fill in the text input fields with the specific details for that instance.
+3. The filled details will replace the placeholders in the prompt, creating a custom message.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **Accessing and Using Saved Prompts**
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+To access your saved prompts:
 
----
+1. In the chat input area, type `/` to bring up a list of your saved prompts.
+2. Scroll or search to find the desired prompt and click on it to select it.
+3. If the prompt includes placeholders, fill in the details in the modal that appears.
 
-## Quos porro ut molestiae
+## **Organizing Prompts into Folders**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Prompts can also be organized into folders for ease of use:
 
-### Voluptatem quas possimus
+1. Go to the 'Prompts' tab.
+2. Click on the 'New Folder' button to create a new folder.
+3. Drag and drop prompts into the folder or click on the 'Add to Folder' icon on a saved prompt.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **Benefits of Using the Prompt System**
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Using the prompt system offers numerous benefits:
 
-### Id vitae minima
+- **Efficiency:** It allows you to reuse prompts, saving time on typing out repeated messages.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+- **Customization:** With placeholders, you can easily tailor your prompts for different situations, items, or brands.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- **Organization:** Folders allow you to neatly categorize your prompts for easy access and use.
 
----
+- **Productivity:** By reducing manual repetition, it lets you focus on more important tasks.
 
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+For example, if you are using prompts for marketing different products, a prompt like `Check out the amazing features of our {{Product Name}}` can be reused effortlessly for each product. Just replace `{{Product Name}}` with the name of the product, and you're good to go!
