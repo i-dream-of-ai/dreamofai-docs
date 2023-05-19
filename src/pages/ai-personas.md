@@ -3,69 +3,48 @@ title: AI Personas
 description: Learn how to use our custom AI personas, and write your own.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Our AI system features over 60 custom AI personas that you can use to tailor the AI's responses according to your needs. Each persona comes with a unique style and approach to answering questions and performing tasks. The personas range from general roles like a "Standard Output" to specialized roles like a "Full-Stack Developer", "Songwriter", or "Historian", among others. 
 
 ---
 
-## Quis vel iste dicta
+## **Selecting a Persona**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+To select a persona:
 
-### Et pariatur ab quas
+1. Open the dropdown menu labeled 'AI Personas'.
+2. Scroll through the options or type in the search bar to find a specific persona.
+3. Click on the persona you wish to select. The selected persona will then appear in the main chat area.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **Editing a Persona**
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+After selecting a persona, you can edit its content if needed:
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+1. Click on the selected persona in the main chat area.
+2. Make changes to the persona's content as necessary.
+3. Press 'Enter' or click outside the editing area to save your changes.
 
-### Natus aspernatur iste
+## **Benefits of Using AI Personas**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Using an AI Persona can bring several benefits:
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- **Personalized Experience:** Personas add a unique flavor to the AI's responses, providing a more engaging and personalized user experience.
 
----
+- **Context-specific Responses:** Certain personas are designed for specific contexts, such as "WordPress Developer" or "Historian", enabling the AI to provide expert responses within those fields.
 
-## Quos porro ut molestiae
+- **Enhanced Creativity:** Some personas, like "Songwriter", can stimulate the AI's creative capabilities.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+- **Versatility:** With over 60 personas to choose from, there's a persona suitable for almost any situation or topic you might be interested in.
 
-### Voluptatem quas possimus
+## **Examples of AI Personas**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Here are a few examples of AI Personas and their uses:
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+- **Standard Output:** This is the default AI persona. It provides detailed and clear responses. You can use prompts like "Create a To-Do List" or "Create a Gallery of Art using DALL-E" with this persona.
 
-### Id vitae minima
+- **Sarcastic Assistant:** If you enjoy a bit of humor and wit, use this persona to add a sarcastic tone to the AI's responses. Remember, this is all in good fun!
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+- **Full-Stack Developer:** This persona is useful if you need expert guidance on front-end technologies, back-end programming languages, database management systems, and more. You can use prompts like "Responsive Navbar" or "RESTful API with Flask".
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- **Songwriter:** Use this persona when you need help crafting catchy songs. It can assist you with lyric writing techniques, song structure, and even drawing inspiration from famous songs.
 
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Remember, the personas are there to help guide the AI, but they're not strictly necessary. The AI will always do its best to generate a useful response based on the input it's given.
