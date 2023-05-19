@@ -13,11 +13,9 @@ To create a reusable prompt:
 
 1. In the prompt bar on the right of the chat dashboard, click + New Prompt. This will generate a new prompt button with a name like Prompt 1.
 2. Click on the prompt button to show the prompt form.
-3. Enter a name and description for you prompt, and the prompt content into the Prompt text field. You can use place holders to make it easy to reuse your prompt. Use {{}} to denote a variable. Ex: `Write a facebook post about {{subject}}, and use a {{tone}} tone.`. 
-
-Later when you use your prompt, you will be able to easily and quickly replace the placeholder varaible with text.
-3. Choose if  you wan to share your prompt in the public prompt vault. This is encouraged, so it is ckecked by default.
-4. Click save to save your prompt.
+3. Enter a name and description for you prompt, and the prompt content into the Prompt text field. You can use place holders to make it easy to reuse your prompt. Use {{}} to denote a variable. Ex: `Write a facebook post about {{subject}}, and use a {{tone}} tone.`.
+3. Choose if you want to share your prompt in the public prompt vault. This is encouraged, so it is ckecked by default.
+4. Click save at the bottom of the form.
 
 ## **Using Placeholders in Prompts**
 
@@ -41,9 +39,10 @@ To access your saved prompts:
 
 Prompts can also be organized into folders for ease of use:
 
-1. Go to the 'Prompts' tab.
+1. Go to the 'Prompts' bar at the right of chat dashboard.
 2. Click on the 'New Folder' button to create a new folder.
-3. Drag and drop prompts into the folder or click on the 'Add to Folder' icon on a saved prompt.
+3. Name your folder based on category or subject.
+4. Drag and drop prompts into the folder.
 
 ## **Benefits of Using the Prompt System**
 
