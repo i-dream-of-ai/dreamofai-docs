@@ -1,24 +1,24 @@
 ---
 title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
-description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+pageTitle: I Dream of AI
+description: ChatGPT-4 stacked with tools to increase productivity.
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Learn how to get get started with I Dream of AI. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Register" icon="installation" href="/" description="Step-by-step guide to registering for an account." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Chat Dashboard guide" icon="presets" href="/" description="Learn the different parts of the dashboard." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Personas" icon="plugins" href="/" description="Learn about our custom AI personas and how to use them." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Prompts" icon="theming" href="/" description="Learn how to use our custom prompt system." /%}
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+These pages will get you started, and quickly increase your AI productivity.
 
 ---
 
