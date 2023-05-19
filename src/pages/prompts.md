@@ -13,7 +13,9 @@ To create a reusable prompt:
 
 1. In the prompt bar on the right of the chat dashboard, click + New Prompt. This will generate a new prompt button with a name like Prompt 1.
 2. Click on the prompt button to show the prompt form.
-3. Enter a name and description for you prompt, and the prompt content into the Prompt text field. You can use place holders to make it easy to reuse your prompt. Use {{}} to denote a variable. Ex: `{{name}} is a {{adjective}} {{noun}}`, or `Write a facebook post about {{subject}}, and use a {{tone}} tone.`. Later when you use your prompt, you will be able to easily and quickly replace the placeholder varaible with text.
+3. Enter a name and description for you prompt, and the prompt content into the Prompt text field. You can use place holders to make it easy to reuse your prompt. Use {{}} to denote a variable. Ex: `Write a facebook post about {{subject}}, and use a {{tone}} tone.`. 
+
+Later when you use your prompt, you will be able to easily and quickly replace the placeholder varaible with text.
 3. Choose if  you wan to share your prompt in the public prompt vault. This is encouraged, so it is ckecked by default.
 4. Click save to save your prompt.
 
