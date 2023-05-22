@@ -1,71 +1,42 @@
 ---
 title: Folders
-description: Stay organized with our easy folder system.
+description: Stay organized with our folder system.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
-
----
-
-## Quis vel iste dicta
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Et pariatur ab quas
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Our folder system provides an intuitive and efficient way to organize your conversations and prompts. It consists of two sidebars - one each for conversations and prompts. This guide will walk you through each step of using the folder system, including creating folders, renaming them, sharing with your team, and using the drag-and-drop feature.
 
 ---
 
-## Quos porro ut molestiae
+## **Creating a New Folder**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Creating a new folder is a simple, two-step process:
+1. Find the "New Folder" button, located at the top of either the conversations or prompts sidebar.
+2. Click this button. A new folder will promptly appear in the corresponding sidebar.
 
-### Voluptatem quas possimus
+## **Renaming Folders**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+To customize the name of your folder, follow these steps:
+1. Look for the edit icon, typically found next to the newly created folder.
+2. Click on the edit icon. A text field will appear, allowing you to rename the folder according to your preferences.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+## **Automatic Folder Sharing**
 
-### Id vitae minima
+Our system is designed with team collaboration in mind. Every new folder you create is automatically shared with your active team, streamlining communication and cooperation.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **The Drag-and-Drop Feature**
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+One of the key features of our folder system is its drag-and-drop functionality. This allows you to easily add and remove prompts from folders:
 
----
+- **Adding a prompt to a folder:** Simply click on the prompt you wish to move, drag it over the desired folder, and drop it. The prompt will move into the folder.
+- **Removing a prompt from a folder:** If you wish to take a prompt out of a folder, click on it, drag it out of the folder, and drop it in the desired location.
 
-## Vitae laborum maiores
+## **The Benefits of Using Folders**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Organizing your prompts and conversations in folders offers numerous advantages:
 
-### Corporis exercitationem
+- **Organization:** Separate different conversations and prompts into distinct folders for easy referencing and retrieval.
+- **Collaboration:** Shared folders enhance team cooperation on shared topics or projects. Every team member can access these folders, which boosts communication and productivity.
+- **Customization:** Rename folders to reflect their contents, improving navigation and searchability.
+- **Versatility:** The drag-and-drop feature allows you to easily move prompts around, accommodating evolving project needs and preferences.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Embrace the folder system and enjoy a smoother, more organized workflow today!
