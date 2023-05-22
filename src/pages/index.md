@@ -22,39 +22,42 @@ These pages will get you started, and quickly increase your AI productivity.
 
 ---
 
+## **Get Started**
+
+
 I Dream of AI is combination of sophisticated AI models designed to provide accurate, contextually relevant responses in natural language, generate images, and easily create custom AI models for your business. To get started quickly, here's a basic intructional guide:
 
-## **Articulate Clear and Specific Prompts**
+### **Articulate Clear and Specific Prompts**
 
 ChatGPT operates based on the prompts you provide. These can be questions, statements, or any text you input. Remember, clarity and specificity will greatly enhance the quality of the AI's responses.
 
 For example, instead of a vague prompt like "Tell me about AI," consider using a more specific one: "Can you explain how machine learning algorithms contribute to the field of Artificial Intelligence?" The more detailed your prompt, the better tailored the response will be.
 
-## **Instructional Prompts: Guide the AI's Responses**
+### **Instructional Prompts: Guide the AI's Responses**
 
 You can lead ChatGPT's responses by giving instructions within your prompts. If you want a response in a certain format or style, specify it in your prompt. For example, "Write a sonnet about spring," or "Explain the process of photosynthesis in simple, layman's terms."
 
-## **Explore Multi-Turn Conversations**
+### **Explore Multi-Turn Conversations**
 
 ChatGPT can handle complex, multi-turn conversations, maintaining the context throughout. You can ask follow-up questions, request additional details, or dive into deeper discussions on a particular topic.
 
-## **Cross-Domain Interactions**
+### **Cross-Domain Interactions**
 
 ChatGPT is trained on a wide range of topics. It can answer questions about various subjects, from science and technology to arts and humanities, and more. However, remember that the AI doesn't have personal data access unless it has been shared during the conversation. Its responses are generated based on patterns and information it learned during training.
 
-## **Practice Safe and Responsible AI Interactions**
+### **Practice Safe and Responsible AI Interactions**
 
 While interacting with ChatGPT, it's important to remember that it doesn't have beliefs, emotions, or intentions. It's a tool designed to provide assistance and information. Avoid sharing personal, sensitive information with the AI, and use it responsibly.
 
-## **Enhance Productivity with Saved Prompts**
+### **Enhance Productivity with Saved Prompts**
 
 With the ability to save prompts, you can create a repository of common questions or statements you frequently use. This saves time and ensures consistent responses, especially useful for repetitive tasks or standardized communications.
 
-## **Using Placeholders for Reusability**
+### **Using Placeholders for Reusability**
 
 Using placeholders in your prompts (wrapped in {{}}) allows for increased reusability of your prompts. For example, a prompt like "Tell me about the {{topic}}" can be used across various subjects, enhancing productivity and consistency in the AI's responses.
 
-## **Organize Your Prompts and Conversations**
+### **Organize Your Prompts and Conversations**
 
 With the folder system, you can keep your prompts and conversations organized. You can create new folders, rename them, and drag and drop prompts or conversations into these folders. Sharing folders with your active team allows for improved collaboration and efficiency.
 
