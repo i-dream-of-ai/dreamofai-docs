@@ -3,7 +3,7 @@ title: Image Generation
 description: Learn how to generate images with AI.
 ---
 
-Harness the power of AI Image Generation, a model that generates images from text prompts. There are two ways to engage with this incredible feature: via integrated chat and through the dedicated 'Generate Image' page. Both methods serve different purposes and offer unique advantages.
+Harness the incredible power of AI Image Generation by using the I Dream of AI image generator. There are two ways to engage with this incredible feature: via integrated chat and through the dedicated 'Generate Image' page. Both methods serve different purposes and offer unique advantages.
 
 ---
 
@@ -12,7 +12,7 @@ Harness the power of AI Image Generation, a model that generates images from tex
 
 The integrated chat is a quick and user-friendly way to create images using DALLE-2. Here's how it works:
 
-1. **Start a chat:** Input your request for an image. For instance, you might ask for "an image of a futuristic city at sunset."
+1. **Start a chat:** Input your request for an image. For instance, you might ask "Write a short post about the future of our cities, and include an image of a futuristic city at sunset."
 
 2. **Get a prompt:** The AI will respond with a prompt based on your request.
 
