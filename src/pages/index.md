@@ -22,93 +22,73 @@ These pages will get you started, and quickly increase your AI productivity.
 
 ---
 
-## Quick start
+I Dream of AI is combination of sophisticated AI models designed to provide accurate, contextually relevant responses in natural language, generate images, and easily create custom AI models for your business. To get started quickly, here's a basic intructional guide:
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+## **1. Articulate Clear and Specific Prompts**
 
-### Installing dependencies
+ChatGPT operates based on the prompts you provide. These can be questions, statements, or any text you input. Remember, clarity and specificity will greatly enhance the quality of the AI's responses.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+For example, instead of a vague prompt like "Tell me about AI," consider using a more specific one: "Can you explain how machine learning algorithms contribute to the field of Artificial Intelligence?" The more detailed your prompt, the better tailored the response will be.
 
-```shell
-npm install @tailwindlabs/cache-advance
-```
+## **2. Instructional Prompts: Guide the AI's Responses**
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+You can lead ChatGPT's responses by giving instructions within your prompts. If you want a response in a certain format or style, specify it in your prompt. For example, "Write a sonnet about spring," or "Explain the process of photosynthesis in simple, layman's terms."
 
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+## **3. Explore Multi-Turn Conversations**
 
-### Configuring the library
+ChatGPT can handle complex, multi-turn conversations, maintaining the context throughout. You can ask follow-up questions, request additional details, or dive into deeper discussions on a particular topic.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## **4. Cross-Domain Interactions**
 
-```js
-// cache-advance.config.js
-export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}
-```
+ChatGPT is trained on a wide range of topics. It can answer questions about various subjects, from science and technology to arts and humanities, and more. However, remember that the AI doesn't have personal data access unless it has been shared during the conversation. Its responses are generated based on patterns and information it learned during training.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+## **5. Utilize System Commands**
 
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+You can use system commands to guide ChatGPT's behavior during a conversation. For example, the `-l` command sets the language mode, `-a` sets the assistant mode, and `-c` resets the context. These commands can further customize and streamline your interaction with the AI.
 
----
+## **6. Practice Safe and Responsible AI Interactions**
 
-## Basic usage
+While interacting with ChatGPT, it's important to remember that it doesn't have beliefs, emotions, or intentions. It's a tool designed to provide assistance and information. Avoid sharing personal, sensitive information with the AI, and use it responsibly.
 
-Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
+## **7. Enhance Productivity with Saved Prompts**
 
-### Your first cache
+With the ability to save prompts, you can create a repository of common questions or statements you frequently use. This saves time and ensures consistent responses, especially useful for repetitive tasks or standardized communications.
 
-Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
+## **8. Using Placeholders for Reusability**
 
-Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perferendis dignissimos provident ea et. Et repudiandae quasi accusamus consequatur dolore nobis. Quia reiciendis necessitatibus a blanditiis iste quia. Ut quis et amet praesentium sapiente.
+Using placeholders in your prompts (wrapped in {{}}) allows for increased reusability of your prompts. For example, a prompt like "Tell me about the {{topic}}" can be used across various subjects, enhancing productivity and consistency in the AI's responses.
 
-Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
+## **9. Organize Your Prompts and Conversations**
 
-### Clearing the cache
+With the folder system, you can keep your prompts and conversations organized. You can create new folders, rename them, and drag and drop prompts or conversations into these folders. Sharing folders with your active team allows for improved collaboration and efficiency.
 
-Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
+By following these strategies, you can make the most of your interactions with ChatGPT, leveraging its potential for both professional and personal tasks.
 
-Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero est. Consequatur qui aliquam qui odit eligendi ut impedit illo dignissimos.
-
-Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
-
-### Adding middleware
-
-Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
-
-Harum perferendis aut qui quibusdam tempore laboriosam voluptatum qui sed. Amet error amet totam exercitationem aut corporis accusantium dolorum. Perspiciatis aut animi et. Sed unde error ut aut rerum.
-
-Ut quo libero aperiam mollitia est repudiandae quaerat corrupti explicabo. Voluptas accusantium sed et doloribus voluptatem fugiat a mollitia. Numquam est magnam dolorem asperiores fugiat. Soluta et fuga amet alias temporibus quasi velit. Laudantium voluptatum perspiciatis doloribus quasi facere. Eveniet deleniti veniam et quia veritatis minus veniam perspiciatis.
 
 ---
 
-## Getting help
+## **Getting Help**
 
-Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus. Porro illo sequi consequatur nisi numquam nisi autem. Ut necessitatibus aut. Veniam ipsa voluptatem sed.
+Whenever you need assistance with our system, we're here to help. There are several ways you can reach out to us:
 
-### Submit an issue
+### **Submit an Issue**
 
-Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et. Aspernatur odit dignissimos. Aut qui est sint sint.
+If you encounter a problem or have a question, the fastest way to get help is by submitting an issue. Here's how to do it:
 
-Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
+1. Write a detailed description of the problem. The more specific you are, the quicker we can understand and resolve the issue.
+2. Include screenshots if you can. These often help us visualize the issue better.
+3. Send your problem description to us via email at [support@idreamofai.com](mailto:support@idreamofai.com).
 
-Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
+Our dedicated support team will review your issue and respond as soon as possible.
 
-### Join the community
+### **Join the Community**
 
-Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo sequi voluptatem voluptatem omnis. Id quia consequatur rerum consectetur eligendi et omnis. Voluptates iusto labore possimus provident praesentium id vel harum quisquam. Voluptatem provident corrupti.
+Being a part of the I Dream of AI community is a great way to learn more about using our tools, connect with other users, and get assistance. You can join our Facebook group, ChatGPT AI Assistant - (by I Dream of AI), where you'll find helpful tips, discussions, and support from our vibrant community.
 
-Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
+Here's how to join:
 
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
+1. Visit the group page at [https://www.facebook.com/groups/621760562726892](https://www.facebook.com/groups/621760562726892).
+2. Click on the 'Join Group' button. You might need to sign in to your Facebook account if you're not already logged in.
+3. Participate in the group by asking questions, sharing your experiences, or helping other members.
+
+Remember, being part of the community means respecting everyone's opinions, experiences, and contributions. Let's help each other grow in our AI journey!
