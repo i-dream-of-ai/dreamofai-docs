@@ -22,8 +22,7 @@ These pages will get you started, and quickly increase your AI productivity.
 
 ---
 
-## **Get Started**
-
+## **Learn the Basics**
 
 I Dream of AI is combination of sophisticated AI models designed to provide accurate, contextually relevant responses in natural language, generate images, and easily create custom AI models for your business. To get started quickly, here's a basic intructional guide:
 

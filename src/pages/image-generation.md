@@ -7,6 +7,9 @@ Harness the incredible power of AI Image Generation by using the I Dream of AI i
 
 ---
 
+{% callout type="warning" title="DANGER!" %}
+Be aware of the content of your images. We have a filter system to remove any pornography. Multiple attempts will result in account suspension.
+{% /callout %}
 
 ## **Integrated Chat**
 
