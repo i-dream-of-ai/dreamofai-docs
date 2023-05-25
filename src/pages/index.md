@@ -85,7 +85,7 @@ Being a part of the I Dream of AI community is a great way to learn more about u
 
 Here's how to join:
 
-1. Visit the group page at [https://www.facebook.com/groups/621760562726892](https://www.facebook.com/groups/621760562726892).
+1. Navigate to our [Facebook group page](https://www.facebook.com/groups/621760562726892).
 2. Click on the 'Join Group' button. You might need to sign in to your Facebook account if you're not already logged in.
 3. Participate in the group by asking questions, sharing your experiences, or helping other members.
 
