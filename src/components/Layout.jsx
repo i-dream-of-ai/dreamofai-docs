@@ -40,7 +40,7 @@ export const navigation = [
     title: 'Advanced guides',
     links: [
       { title: 'Custom Chatbot', href: '/custom-chatbot' },
-      { title: 'Neuralink integration', href: '/neuralink-integration' },
+      { title: 'Teams', href: '/teams' },
     ],
   },
   {
