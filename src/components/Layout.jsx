@@ -39,7 +39,7 @@ export const navigation = [
   {
     title: 'Advanced guides',
     links: [
-      { title: 'Writing plugins', href: '/writing-plugins' },
+      { title: 'Custom Chatbot', href: '/custom-chatbot' },
       { title: 'Neuralink integration', href: '/neuralink-integration' },
       { title: 'Temporal paradoxes', href: '/temporal-paradoxes' },
       { title: 'Testing', href: '/testing' },
