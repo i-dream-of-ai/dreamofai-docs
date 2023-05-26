@@ -1,5 +1,5 @@
 ---
-title: API Coming Soon
+title: API Documentation
 description: REST Api is coming soon. Stay tuned!
 ---
 
