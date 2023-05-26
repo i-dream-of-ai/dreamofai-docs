@@ -77,7 +77,7 @@ export default function App({ Component, pageProps }) {
 
         <meta
           property="twitter:url"
-          content={`https://www.idreamofai.com`}
+          content={`https://docs.idreamofai.com`}
           key="twitter:url"
         />
         <meta
