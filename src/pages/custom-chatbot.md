@@ -7,6 +7,8 @@ With the Agency plan, you can harness the power of your own data to create a cus
 
 ---
 
+## **How To Create A Custom Chatbot**
+
 ### **Step 1: Create Your Vector Database**
 
 1. Navigate to the [Create Storage](https://idreamofai.com/create-storage) page.
