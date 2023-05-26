@@ -3,15 +3,15 @@ title: API Documentation
 description: REST Api is coming soon. Stay tuned!
 ---
 
-The ChatGPT API is a RESTful service that provides developers with programmatic access to ChatGPT's powerful features, including the ability to retrieve team data and interact with the custom chatbot functionality. This document provides an overview of the upcoming API capabilities.
+The I Dream of AI API is a RESTful service that provides developers with programmatic access to our powerful features, including the ability to retrieve team data and interact with the custom chatbot functionality. This document provides an overview of the upcoming API capabilities.
 
 ---
 
-## **ChatGPT API Overview**
+## **API Overview**
 
-### **What is the ChatGPT API?**
+### **What is the I Dream of AI API?**
 
-The ChatGPT API is a RESTful web service that follows the principles of Representational State Transfer (REST). It uses standard HTTP methods like GET, POST, PUT, and DELETE to interact with the ChatGPT resources.
+The API is a RESTful web service that follows the principles of Representational State Transfer (REST). It uses standard HTTP methods like GET, POST, PUT, and DELETE to interact with the Team and Custom Chatbot resources.
 
 ### **Features**
 
