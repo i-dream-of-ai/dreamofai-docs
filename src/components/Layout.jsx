@@ -46,7 +46,7 @@ export const navigation = [
   {
     title: 'API reference',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/cacheadvance-predict' },
+      { title: 'Coming Soon', href: '/api-coming-soon' },
     ],
   }
 ]
