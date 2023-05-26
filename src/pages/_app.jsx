@@ -66,6 +66,26 @@ export default function App({ Component, pageProps }) {
       <Head>
         <title>{pageTitle}</title>
         {description && <meta name="description" content={description} />}
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="I Dream of AI Documentation" key="og:title" />
+        <meta property="og:description" content={description} key="og:description" />
+        <meta property="og:image" content="/banner.png" key="og:image" />
+  
+        <meta name="twitter:card" content={description} key="twitter:card" />
+
+        <meta property="og:site_name" content="I Dream of AI" key="og:site_name" />
+
+        <meta
+          property="twitter:url"
+          content={`https://www.idreamofai.com`}
+          key="twitter:url"
+        />
+        <meta
+          name="twitter:image:alt"
+          content="/banner.png"
+          key="twitter:image:alt"
+        />
+       
       </Head>
       <Layout title={title} tableOfContents={tableOfContents}>
         <Component {...pageProps} />
