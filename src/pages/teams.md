@@ -1,17 +1,14 @@
 ---
 title: Teams
-description: How to use the Team functions in I Dream of AI.
+description: How to use the Team functions.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+ChatGPT's team feature enables users to create and manage groups for better collaboration and organization. Every user belongs to at least one team, and depending on your subscription plan, you can be part of multiple teams.
 
 ---
 
 ## **Using Teams in ChatGPT**
 
-### **Introduction**
-
-ChatGPT's team feature enables users to create and manage groups for better collaboration and organization. Every user belongs to at least one team, and depending on your subscription plan, you can be part of multiple teams.
 
 ### **Understanding Teams**
 
