@@ -42,7 +42,7 @@ ChatGPT can handle complex, multi-turn conversations, maintaining the context th
 
 ### **Cross-Domain Interactions**
 
-ChatGPT is trained on a wide range of topics. It can answer questions about various subjects, from science and technology to arts and humanities, and more. However, remember that the AI doesn't have personal data access unless it has been shared during the conversation. Its responses are generated based on patterns and information it learned during training.
+ChatGPT is trained on a wide range of topics. It can answer questions about various subjects, from science and technology to arts and humanities, and more. However, remember that the AI doesn't have personal data access unless it has been shared during the conversation. Its responses are generated based on patterns and information it learned during training. If you would like to use your own data, we offer a custom chatbot option with the Agency Plan.
 
 ### **Practice Safe and Responsible AI Interactions**
 
