@@ -1,9 +1,9 @@
 ---
-title: API Documentation
+title: IDAI API 
 description: REST Api is coming soon. Stay tuned!
 ---
 
-The I Dream of AI API is a RESTful service that provides developers with programmatic access to our powerful features, including the ability to retrieve team data and interact with the custom chatbot functionality. This document provides an overview of the upcoming API capabilities.
+Our API is a RESTful service that provides developers with programmatic access to our powerful features, including the ability to retrieve team data and interact with the custom chatbot functionality. This document provides an overview of the upcoming API capabilities.
 
 ---
 
