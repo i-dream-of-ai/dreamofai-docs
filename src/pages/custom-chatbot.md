@@ -36,7 +36,7 @@ With the Agency plan, you can harness the power of your own data to create a cus
 3. Test the chatbot to ensure that the data is of good quality and is providing the desired results.
 4. Remember, you can add more data to your vector database at any time to enhance your chatbot's performance.
 
-### **Why This is Useful for Businesses**
+## **Why This is Useful for Businesses**
 
 Personalized chatbots can be an invaluable asset for businesses of all sizes and types. Here are a few reasons why:
 
