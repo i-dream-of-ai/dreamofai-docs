@@ -7,7 +7,7 @@ With the Agency plan, you can harness the power of your own data to create a cus
 
 ---
 
-## **How To Create A Custom Chatbot**
+## **How To Create A Chatbot**
 
 ### **Step 1: Create Your Vector Database**
 
